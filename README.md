@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou Marco Túlio Sales de Deus 👋
 
-<!--
-**MarcoTulioES/MarcoTulioES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Engenharia de Software** pela **PUC Minas** e desenvolvedor focado em soluções **Backend**. Atualmente, dedico meus estudos ao ecossistema Java e à construção de APIs robustas, escaláveis e seguras.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Java (JDK 17/21), C, LaTeX.
+- **Frameworks:** Spring Boot, Spring Data JPA.
+- **Banco de Dados:** PostgreSQL, MySQL, H2.
+- **Infraestrutura:** Docker, Maven, Git/GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Formação Acadêmica
+- Bacharelado em Engenharia de Software – **PUC Minas** (3º Semestre)
+
+### 📈 Estatísticas de Desenvolvimento
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcoTulioES&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoTulioES&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+</p>
+
+---
+📫 **Conecte-se comigo:**
+[LinkedIn](https://www.linkedin.com/in/marco-t%C3%BAlio-sales-de-deus-422355329/) | [GitHub Repository: fit-manager-api](https://github.com/MarcoTulioES/fit-manager-api)
