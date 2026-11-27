@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-labelledby="title">
+  <title id="title">Marco Túlio Sales de Deus — Software Engineering Student</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0D1729"/><stop offset="1" stop-color="#101F36"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#2563EB" stop-opacity=".1"/><stop offset="1" stop-color="#2563EB" stop-opacity=".8"/></linearGradient>
+  </defs>
+  <rect width="1280" height="320" rx="16" fill="url(#bg)"/>
+  <path d="M890 320 L1200 0 H1280 V320 Z" fill="url(#accent)"/>
+  <path d="M1010 320 L1280 50 V320 Z" fill="#2563EB" opacity=".18"/>
+  <g stroke="#60A5FA" stroke-width="1.5" fill="none" opacity=".28"><path d="M930 35H1050V100H1170"/><path d="M965 290V250H1230V180"/><circle cx="930" cy="35" r="4"/><circle cx="1170" cy="100" r="4"/></g>
+  <rect x="64" y="57" width="5" height="151" rx="2.5" fill="#60A5FA"/>
+  <text x="90" y="50" font-size="15" letter-spacing="4" font-family="Arial,sans-serif" fill="#60A5FA">SOFTWARE ENGINEERING PORTFOLIO</text>
+  <text x="90" y="110" font-size="47" font-weight="700" font-family="Arial,sans-serif" fill="#F8FAFC">Marco Túlio Sales de Deus</text>
+  <text x="90" y="156" font-size="27" font-family="Arial,sans-serif" fill="#CBD5E1">Software Engineering Student</text>
+  <text x="90" y="192" font-size="27" font-family="Arial,sans-serif" fill="#CBD5E1">Backend Development</text>
+  <rect x="90" y="225" width="690" height="1" fill="#334155"/>
+  <text x="90" y="263" font-size="20" font-family="monospace" fill="#60A5FA">Java / Spring Boot / REST APIs / Databases</text>
+  <g fill="none" stroke="#60A5FA" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"><path d="M1055 113L1005 160L1055 207M1145 113L1195 160L1145 207M1125 99L1075 221"/></g>
+</svg>
