@@ -52,6 +52,6 @@ Belo Horizonte, Brazil
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square)](https://www.linkedin.com/in/marco-t%C3%BAlio-sales-de-deus-422355329/) [![Email](https://img.shields.io/badge/Email-0D1729?style=flat-square)](mailto:marco.deus@sga.pucminas.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square)](https://www.linkedin.com/in/marco-tulio-es/) [![Email](https://img.shields.io/badge/Email-0D1729?style=flat-square)](mailto:marco.deus@sga.pucminas.br)
 
 Open to internship opportunities in backend and software development.
